@@ -5,7 +5,7 @@ Profile README page under construction
 - 🔭  I have recently started as a Machine Learning DevOps Engineer
 - 🥅  I have previously worked as a Back End Web Developer and a Data Engineer
 - 📚  Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer, IBM Watson Application Devloper
-- 🌱  I’m currently learning Azure Cloud
+- 🌱  I’m currently learning AWS and Azure
 
 
 <!--
