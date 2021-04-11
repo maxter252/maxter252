@@ -1,11 +1,9 @@
 ### Hi there 👋 - I'm Max
 
-Profile README page under construction
-
-- 🔭  I have recently started as a Machine Learning DevOps Engineer
-- 🥅  I have previously worked as a Back End Web Developer and a Data Engineer
+- 🔭  I am currently working as a Data Engineer at Sainsbury's
+- 🥅  I have previously worked as a Back End Web Developer, Machine Learning DevOps Engineer and a Data Engineer
 - 📚  Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer, IBM Watson Application Devloper
-- 🌱  I’m currently learning AWS and Azure
+- 🌱  I’m currently learning AWS
 
 
 <!--
