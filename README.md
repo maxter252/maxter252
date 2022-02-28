@@ -3,7 +3,6 @@
 - 🔭  I am currently working as a Data Engineer at Sainsbury's
 - 🥅  I have previously worked as a Back End Web Developer, Machine Learning DevOps Engineer and a Data Engineer
 - 📚  Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer, IBM Watson Application Devloper
-- 🌱  I’m currently learning AWS
 
 
 <!--
