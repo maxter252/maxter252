@@ -1,7 +1,7 @@
 ### Hi there 👋 - I'm Max
 
-- 🔭  I am currently working as a Data Engineer at Sainsbury's
-- 🥅  I have previously worked as a Back End Web Developer, Machine Learning DevOps Engineer and a Data Engineer
+- 🔭  I am currently building a startup focusing on making easier to eat well, UK focused currently, take a look here if you are interested, [feasyapp.com](Feasy)
+- 🥅  I have previously worked as a Backend Engineer, Data Engineer, MLOps Engineer, Engineering Manager
 - 📚  Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer, IBM Watson Application Devloper
 
 
@@ -42,8 +42,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## Overview of My Projects
-
-1) Sir-Barry - Sir Barry is a virtual assistant that can assist with some day to day tasks, the source code can be used as a starting point for building virtual assistants with Google's Dialogflow. Sir Bary was built to address some of the features that i thought would be useful additions to google assistant, and also as a point of amusment to show friends. 
-
-2) Apache Beam Python Starter - Coming Soon... 
