@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Max
 
-- 🔭  I am currently building a startup focusing on making easier to eat well, UK focused currently, take a look here if you are interested, [feasyapp.com](Feasy)
+- 🔭  I am currently building a startup focusing on making easier to eat well, UK focused currently, take a look here if you are interested, [Feasy](feasyapp.com)
 - 🥅  I have previously worked as a Backend Engineer, Data Engineer, MLOps Engineer, Engineering Manager
 - 📚  Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer, IBM Watson Application Devloper
 
